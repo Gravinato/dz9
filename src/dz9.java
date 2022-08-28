@@ -3,6 +3,7 @@ public class dz9 {
         Author levTolstoy = new Author("Лев", "Толстой");
         Book warAndPeace = new Book("Война и мир ", 1965 , levTolstoy);
 
+
         warAndPeace.setPublishDate(1867);
 
         System.out.println(levTolstoy);
